@@ -2,16 +2,16 @@
   "name": "unplugin-starter",
   "type": "module",
   "version": "0.1.0",
-  "packageManager": "pnpm@7.1.1",
+  "packageManager": "pnpm@7.15.0",
   "description": "Register global imports on demand for Vite and Webpack",
   "license": "MIT",
-  "homepage": "https://github.com/antfu/unplugin-starter#readme",
+  "homepage": "https://github.com/imyangyong/unplugin-starter#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/antfu/unplugin-starter.git"
+    "url": "git+https://github.com/imyangyong/unplugin-starter.git"
   },
   "bugs": {
-    "url": "https://github.com/antfu/unplugin-starter/issues"
+    "url": "https://github.com/imyangyong/unplugin-starter/issues"
   },
   "keywords": [
     "unplugin",
@@ -87,7 +87,7 @@
     "unplugin": "^0.9.6"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^0.27.0",
+    "@imyangyong/eslint-config": "^0.4.4",
     "@types/node": "^18.8.0",
     "bumpp": "^8.2.1",
     "chalk": "^5.0.1",

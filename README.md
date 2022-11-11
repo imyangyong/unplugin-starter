@@ -9,7 +9,7 @@ Starter template for [unplugin](https://github.com/unjs/unplugin).
 To use this template, clone it down using:
 
 ```bash
-npx degit antfu/unplugin-starter my-unplugin
+npx degit imyangyong/unplugin-starter my-unplugin
 ```
 
 And do a global replace of `unplugin-starter` with your plugin name.
